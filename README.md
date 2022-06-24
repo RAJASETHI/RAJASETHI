@@ -30,7 +30,7 @@
 
 <h2><b>⚡ Github Analytics</b></h2>
 <p align="center">
-  https://activity-graph.herokuapp.com/graph?username=RAJASETHI&theme=react-dark&line=FF1493&color=ff389c
+  <img height="210em" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=RAJASETHI&theme=tokyonight&hide=css,tcl,html&hide_border=false&border_color=808080&bg_color=242424" alt="praneeth](https://activity-graph.herokuapp.com/graph?username=RAJASETHI&theme=react-dark&line=FF1493&color=ff389c)" />
   <img height="210em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAJASETHI&theme=tokyonight&hide=css,tcl,html&hide_border=false&border_color=808080&bg_color=242424" alt="praneeth" />
   <img height="210em" src="https://github-readme-streak-stats.herokuapp.com/?user=RAJASETHI&theme=tokyonight_duo&hide_border=false" alt="Praneeth-rdy's readme streaks" />
   
