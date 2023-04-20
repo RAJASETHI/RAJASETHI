@@ -4,10 +4,6 @@
 
 
 - 🎓  I'm currently studying Computer Science at The LNM Institute of Information Technology.
-- 🌱 I’m currently learning Machine Learning
-- 👯 I’m looking to collaborate on ML/DL Projects
-- 💬 Ask me about Python and its different Libraries
-
 - 😄 Pronouns: He/His
 
 
